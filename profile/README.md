@@ -6,6 +6,12 @@
    - Location: https://github.com/gabrielsmenezes/backend-mediador-pedagogico/blob/3dc24d6ff51acb3b47db5dbc2438f4718431acd4/free-access/src/test/java/com/example/freeaccess/controller/ControllerTest.java
    - Context: In this class, I tested save, update and find feature from an application. To be a real integration test, we need to use real classes like @Services and @Repositories. Some of these features have restrictions as not null fields, so I also created tests to handle theses situations.
 
+ - **Mock on tests**
+   - Definition: XXX
+   - Tech:
+     - Mockito
+   - Location: https://github.com/Pedagogical-Mediator/free-access/blob/master/src/test/java/com/example/freeaccess/controller/NoticeIntegrationTest.java
+
 Neste repositórios reuni os princiapis conceitos e principais tecnologias que utilizei em experiencias proficionais e em cursos da Alura. Abaixo listo uma a uma, explico brevemente e cito exemplos de onde foi utilizado:
 - Spring Boot
    - Validation
