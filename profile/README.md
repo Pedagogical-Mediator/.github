@@ -11,6 +11,13 @@
    - Tech:
      - Mockito
    - Location: https://github.com/Pedagogical-Mediator/free-access/blob/master/src/test/java/com/example/freeaccess/controller/NoticeIntegrationTest.java
+ 
+ - **Strategy Method**
+   - Definition: Strategy is a behavioral design pattern that lets you define a family of algorithms, put each of them into a separate class, and make their objects interchangeable.
+   - Tech: Java pure
+   - Location: https://github.com/Pedagogical-Mediator/free-access/blob/2828304e61205d4481438f4b02f35e372c279acb/src/main/java/com/example/freeaccess/service/notice/SaveNotice.java#L33
+
+
 
 Neste repositórios reuni os princiapis conceitos e principais tecnologias que utilizei em experiencias proficionais e em cursos da Alura. Abaixo listo uma a uma, explico brevemente e cito exemplos de onde foi utilizado:
 - Spring Boot
